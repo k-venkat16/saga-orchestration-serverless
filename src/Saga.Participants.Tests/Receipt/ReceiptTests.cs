@@ -4,6 +4,7 @@ using Saga.Participants.Receipt.Models;
 using System;
 using Xunit;
 
+//TODO: To check Validator
 namespace Saga.Participants.Tests.Receipt
 {
     public class ReceiptTests

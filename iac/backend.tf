@@ -6,3 +6,5 @@ terraform {
     key                  = "terraform.tfstate"
   }
 }
+
+# To change storage account name
